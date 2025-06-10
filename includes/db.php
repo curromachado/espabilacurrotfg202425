@@ -3,10 +3,10 @@
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 // Parámetros de conexión
-$servername = 'db5017984678.hosting-data.io';
-$username   = 'dbu657666';
-$password   = 'MegustaelMineclaft25';
-$dbname     = 'dbs14302116';
+$servername = 'ZGI1MDE3OTg0Njc4Lmhvc3RpbmctZGF0YS5pbw==';
+$username   = 'ZGJ1NjU3NjY2';
+$password   = 'TWVndXN0YWVsTWluZWNsYWZ0MjU=';
+$dbname     = 'ZGJzMTQzMDIxMTY=';
 
 // Crear conexión
 $conn = new mysqli($servername, $username, $password, $dbname);
